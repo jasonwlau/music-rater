@@ -1,0 +1,30 @@
+PUT http://localhost:3001/songs/5f38dd7f57c57b07342f90a8
+Content-Type: application/json
+
+{
+    "rating": "1000"
+}
+
+###
+PUT http://localhost:3001/songs/5f38dd92dbc8a0073ad7dd93
+Content-Type: application/json
+
+{
+    "rating": "1000"
+}
+
+###
+PUT http://localhost:3001/songs/5f38dd99a2b5c0073eb1c80b
+Content-Type: application/json
+
+{
+    "rating": "1000"
+}
+
+###
+PUT http://localhost:3001/songs/5f38ef49fd2ad509ba75d013
+Content-Type: application/json
+
+{
+    "rating": "1000"
+}
